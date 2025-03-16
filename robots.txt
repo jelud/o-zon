@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://o-zon.ru/sitemap.xml
